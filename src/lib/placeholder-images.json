@@ -1,0 +1,47 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "wheat",
+      "description": "A golden field of wheat under a clear blue sky.",
+      "imageUrl": "https://picsum.photos/seed/101/600/400",
+      "imageHint": "wheat field"
+    },
+    {
+      "id": "corn",
+      "description": "Tall stalks of green corn in a vast field.",
+      "imageUrl": "https://picsum.photos/seed/102/600/400",
+      "imageHint": "corn field"
+    },
+    {
+      "id": "soybeans",
+      "description": "Lush green soybean plants in neat rows.",
+      "imageUrl": "https://picsum.photos/seed/103/600/400",
+      "imageHint": "soybean field"
+    },
+    {
+      "id": "rice",
+      "description": "Flooded paddy fields with young rice shoots.",
+      "imageUrl": "https://picsum.photos/seed/104/600/400",
+      "imageHint": "rice paddy"
+    },
+    {
+      "id": "potatoes",
+      "description": "A freshly harvested pile of potatoes on rich soil.",
+      "imageUrl": "https://picsum.photos/seed/105/600/400",
+      "imageHint": "harvested potatoes"
+    },
+    {
+      "id": "tomatoes",
+      "description": "Ripe red tomatoes growing on the vine.",
+      "imageUrl": "https://picsum.photos/seed/106/600/400",
+      "imageHint": "tomatoes vine"
+    },
+    {
+      "id": "diagnosis-placeholder",
+      "description": "A close-up of a green leaf with visible veins.",
+      "imageUrl": "https://picsum.photos/seed/107/600/400",
+      "imageHint": "plant leaf"
+    }
+  ]
+}
